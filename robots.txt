@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choovi.schoenemight.com/sitemap.xml
